@@ -1,0 +1,15 @@
+{
+  "repositories": [
+      {
+        "type": "composer",
+        "url": "https://satis.bsbox.pl"
+      }
+  ],
+  "require": {
+      "php": "~7.1",
+      "endroid/qr-code": "^3.6"
+  },
+  "config": {
+      "sort-packages": true
+  }
+}

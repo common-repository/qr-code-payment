@@ -1,0 +1,51 @@
+#:
+msgid "Scan the QR code in your bank's mobile application"
+msgstr "Zeskanuj kod QR w aplikacji mobilnej swojego Banku"
+
+#:
+msgid "Order number: %s"
+msgstr "Numer zamówienia: %s"
+
+#:
+msgid "Settings have been saved."
+msgstr "Ustawienia zostały zapisane."
+
+#:
+msgid "Hide this information."
+msgstr "Ukryj tę informację."
+
+#:
+msgid "Settings"
+msgstr "Ustawienia"
+
+#:
+msgid "Recipient of the transfer"
+msgstr "Odbiorca przelewu"
+
+#:
+msgid "Transfer title"
+msgstr "Tytuł przelewu"
+
+#:
+msgid "Encouraging text"
+msgstr "Tekst zachęcający"
+
+#:
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+#:
+msgid "https://bluemedia.pl"
+msgstr "https://bluemedia.pl"
+
+#:
+msgid "Adds QRCode to payments by regular transfer."
+msgstr "Dodaje QRCode do płatności zwykłym przelewem."
+
+#:
+msgid "Blue Services"
+msgstr "Blue Services"
+
+#:
+msgid "QR Code Payment"
+msgstr "QR Code Payment"
